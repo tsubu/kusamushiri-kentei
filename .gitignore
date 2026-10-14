@@ -1,0 +1,10 @@
+# ランキングDBと鍵（サーバーごとに自動生成される。公開しない）
+data/*.sqlite3
+data/*.sqlite3-wal
+data/*.sqlite3-shm
+data/secret.key
+
+# 開発用の設定・作業ファイル
+.claude/
+screenshots/
+.DS_Store
